@@ -1,21 +1,64 @@
 ---
-title: My First Article
-description: Lorem ipsum dolor sit amet consectetur adipisicing elit.
-  Perferendis accusantium sit illo neque rem omnis quaerat, nam similique vitae
-  delectus ad magni vel quo maxime, magnam placeat. Reprehenderit, distinctio
-  aliquam?
+title: Introduction to DMarketingBuddy
+description: "Hello! I am going to use this blog to share what I know about
+  digital marketing. As I progress through my journey, I will document
+  everything in order to share it with you in a Blog format. We will mostly
+  cover SEM and SEO initially, since that is what I specialize in at the moment.
+  Stay tuned to learn more about digital marketing! "
 author: Nenad Markovic
-date: 2021-05-01
-image: /assets/blog/article-1.jpg
-imageAlt: This is a test
+date: 2023-07-12T07:09:44.851Z
+tags:
+  - digitalmarketing
+  - seo
+  - sem
+  - googleads
+  - onlinemarketing
+  - education
+image: https://images.unsplash.com/photo-1557838923-2985c318be48?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1331&q=80
+imageAlt: Learn digital marketing
 ---
+# T﻿he DMarketingBuddy
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Risus commodo viverra maecenas accumsan lacus vel. Donec ultrices tincidunt arcu non sodales. Mattis rhoncus urna neque viverra justo nec ultrices dui sapien. Pretium quam vulputate dignissim suspendisse in est. Lobortis mattis aliquam faucibus purus in massa tempor nec. Elit ullamcorper dignissim cras tincidunt lobortis feugiat vivamus at augue. Quis ipsum suspendisse ultrices gravida dictum fusce ut placerat. Vulputate eu scelerisque felis imperdiet proin. Nisl nisi scelerisque eu ultrices.
+In this Blog we will initially cover some digital marketing basics, focusing on SEM and SEO. The reason why I am doing this is both to help out anyone trying to break into the world of digital marketing or improve the market presence of their small or medium-sized business, but also for myself, as I teach you guys, I'll learn more myself. Hopefully, I'll reach the point of becoming a digital marketing expert, and you will be able to capitalize on the knowledge and resources shared here, on the DMarketingBlog. 
 
-Enim nulla aliquet porttitor lacus luctus accumsan. Vulputate mi sit amet mauris commodo quis. Accumsan in nisl nisi scelerisque eu ultrices vitae auctor. Tellus pellentesque eu tincidunt tortor aliquam nulla facilisi cras. Placerat orci nulla pellentesque dignissim. Consequat mauris nunc congue nisi. Nec nam aliquam sem et tortor consequat. Consequat semper viverra nam libero justo laoreet sit amet. Id interdum velit laoreet id donec. Turpis in eu mi bibendum neque. Tincidunt vitae semper quis lectus. Suscipit adipiscing bibendum est ultricies integer quis auctor. Posuere urna nec tincidunt praesent semper. Sagittis id consectetur purus ut faucibus pulvinar elementum. Diam maecenas ultricies mi eget mauris. Nunc mi ipsum faucibus vitae aliquet nec ullamcorper. Dui sapien eget mi proin sed.
+S﻿tay tuned for a ton of free resources and study materials! I'll share everything I learn and create.
 
-In iaculis nunc sed augue lacus. Pellentesque eu tincidunt tortor aliquam nulla facilisi cras fermentum. Consectetur adipiscing elit ut aliquam. Tortor consequat id porta nibh venenatis cras sed. Integer enim neque volutpat ac tincidunt. Pellentesque pulvinar pellentesque habitant morbi. Ut enim blandit volutpat maecenas. Risus quis varius quam quisque id. Turpis tincidunt id aliquet risus. Congue eu consequat ac felis donec.
+## W﻿hat is digital marketing?
 
-Aliquam vestibulum morbi blandit cursus risus at. Malesuada fames ac turpis egestas sed tempus. Donec et odio pellentesque diam volutpat commodo sed egestas egestas. Tortor pretium viverra suspendisse potenti nullam ac tortor vitae purus. Enim diam vulputate ut pharetra sit amet aliquam. Est ante in nibh mauris cursus mattis. Viverra ipsum nunc aliquet bibendum enim facilisis gravida neque. Nec ultrices dui sapien eget mi proin sed libero enim. Sed sed risus pretium quam vulputate. Sit amet luctus venenatis lectus magna.
+L﻿et's start from zero, suppose we don't know anything about digital marketing. So, what is digital marketing? I'd define it as a set of online activities that use various digital channels to promote your products or services online. The goal of digital marketing is simple, making more money from your products or services. It's a simple equation when you look at it that way, your input is your effort, time, and money spent, and your output is brand recognition, increased sales, and ultimately money earned. 
 
-Mauris nunc congue nisi vitae suscipit tellus mauris. Vitae et leo duis ut. Arcu cursus euismod quis viverra nibh. Amet mauris commodo quis imperdiet. Condimentum lacinia quis vel eros donec. Enim neque volutpat ac tincidunt vitae semper quis lectus nulla. Faucibus nisl tincidunt eget nullam. Cursus metus aliquam eleifend mi in nulla. Ut placerat orci nulla pellentesque dignissim enim sit amet. Lobortis feugiat vivamus at augue eget arcu dictum. Nunc faucibus a pellentesque sit amet porttitor. Quis varius quam quisque id diam vel quam elementum pulvinar.
+I﻿n case you are a business owner and hire someone else, the equation becomes even more simple: your input is money spent on marketing, and your output is money earned.
+
+## W﻿hy digital marketing?
+
+When we put it that way, and consider the fact that our whole financial system works thanks to this crazy age of consumerism, we can define digital marketing as a money making machine, and one of the best skills you could learn if you want to increase your income.
+
+J﻿ust think about it, some of the largest companies that have emerged in the past 2-3 decades such as Google, Facebook (Meta), Instagram (now owned by Meta), Twitter, YouTube, or TikTok are free to use? How do they make their billions then, simply put, thanks to digital marketing. In 2022, Google's ad revenue amounted to 224.47 billion U.S. dollars, that is how much people spent of GoogleAds!
+
+B﻿ut we aren't the giants, we are the little people, but still there is plenty of room for us. With modern tools that we will focus on in this blog, you can do a ton of stuff to promote your products or services online, for free! I'll do my best to teach myself, and all of you, how to do it. You will have to invest your time and effort if you want to save money though, and vice-versa, if you want to save your time and effort, you will have to spend money by hiring someone else to do it for you.
+
+## D﻿igital marketing components that we will study
+
+As I progress through my digital marketing journey, I will cover the topics I study and have experience in. Here are some of the topics I am familiar with and that you can expect to see more of.
+
+### S﻿earch Engine Optimization (SEO)
+
+SEO involves optimizing websites and online content to improve their visibility in search engine results. By enhancing a website's ranking in search engines like Google, you can attract organic traffic and increase online presence.
+
+### P﻿ay-Per-Click Advertising (PPC)
+
+PPC advertising allows you to display ads on search engines or other platforms and pay only when users click on your ads. This method provides immediate visibility and can be highly effective for driving targeted traffic to a website. We will cover the topics on how to spend your money wisely and also manage other people’s PPC campaigns as a service.
+
+### E﻿mail Marketing
+
+Email marketing involves sending targeted emails to subscribers to nurture relationships, promote products or services, and drive conversions. It is an effective channel for building customer loyalty and encouraging repeat business. Email marketing is also the most cost-efficient form of online marketing, as it is very cheap and provides high returns.
+
+### Analytics and Data-driven Insights
+
+Analytics tools provide valuable data and insights into the performance of digital marketing campaigns. By analyzing metrics like website traffic, conversion rates, and customer behavior, we can refine our digital marketing strategies and optimize our campaigns. 
+
+The number one reason why digital marketing campaigns are so efficient is data that allows us to optimize campaigns. This part is extremely important and we will spend a lot of time on learning how to make well-informed decisions to generate more value from our campaigns.
+
+## F﻿inal Remark
+
+T﻿hat's all for now folks! Stay tuned for more and keep studying!
