@@ -1,5 +1,5 @@
 ---
-title: Introduction to DMarketingBuddy1
+title: My first blog post
 description: "Hello! I am going to use this blog to share what I know about
   digital marketing. As I progress through my journey, I will document
   everything in order to share it with you in a Blog format. We will mostly
