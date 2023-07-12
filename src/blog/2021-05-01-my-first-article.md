@@ -21,7 +21,7 @@ imageAlt: Learn digital marketing
 
 In this Blog we will initially cover some digital marketing basics, focusing on SEM and SEO. The reason why I am doing this is both to help out anyone trying to break into the world of digital marketing or improve the market presence of their small or medium-sized business, but also for myself, as I teach you guys, I'll learn more myself. Hopefully, I'll reach the point of becoming a digital marketing expert, and you will be able to capitalize on the knowledge and resources shared here, on the DMarketingBlog. 
 
-S﻿tay tuned for a ton of free resources and study materials! I'll share everything I learn and create.
+S﻿tay tuned for a ton of free resources and study materials! I'll share everything I learn and create. 
 
 ## W﻿hat is digital marketing?
 
